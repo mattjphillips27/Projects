@@ -1,0 +1,50 @@
+﻿Build started 05/05/2015 11:26:47.
+     1>Project "E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\OpenGL_SDL Base Project\SDL\image_include" /I"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\OpenGL_SDL Base Project\SDL\include" /I"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\OpenGL_SDL Base Project\SDL\mixer_include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Audio.cpp Box.cpp DondSplash.cpp GameOver.cpp GameScreenLevel1.cpp GameScreenLevel2.cpp GameScreenManager.cpp MenuScreen.cpp Source.cpp SplashScreen.cpp Teapot.cpp cow.cpp
+         Audio.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         cow.cpp
+         Teapot.cpp
+         SplashScreen.cpp
+         Source.cpp
+         MenuScreen.cpp
+         GameScreenManager.cpp
+         GameScreenLevel2.cpp
+         GameScreenLevel1.cpp
+         GameOver.cpp
+         DondSplash.cpp
+         Box.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\OpenGL_SDL Base Project\SDL" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.lib" /MACHINE:X86 Debug\3dsLoader.obj
+         Debug\Audio.obj
+         Debug\Box.obj
+         Debug\Camera.obj
+         Debug\cow.obj
+         Debug\denzil.obj
+         Debug\DondSplash.obj
+         Debug\GameOver.obj
+         Debug\GameScreen.obj
+         Debug\GameScreenLevel1.obj
+         Debug\GameScreenLevel2.obj
+         Debug\GameScreenManager.obj
+         Debug\MenuScreen.obj
+         Debug\object3DS.obj
+         Debug\QuaternionMath.obj
+         Debug\Source.obj
+         Debug\SplashScreen.obj
+         Debug\Teapot.obj
+         Debug\Terrain.obj
+         Debug\Texture.obj
+         ..\gl\glut32.lib
+         SDL\SDL2.lib
+         SDL\SDL2main.lib
+         SDL\SDL2_image.lib
+         SDL\SDL2_mixer.lib
+         OpenGL_SDL Base Project.vcxproj -> E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe
+     1>Done Building Project "E:\Uni\Year 2\Lessons\Games Engines\Camera\Camera\Camera\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.62
